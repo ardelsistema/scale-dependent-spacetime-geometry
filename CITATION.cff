@@ -1,0 +1,19 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+type: software
+
+title: "Scale-Dependent Spacetime Geometry: Python Toolkit"
+version: "v1.13"
+doi: 10.5281
+date-released: 2025-11-07
+
+authors:
+  - family-names: Firmenich
+    given-names: Facundo
+    orcid: "https://orcid.org/0009-0002-6578-3811"
+  - family-names: Firmenich
+    given-names: Pau
+  - family-names: Firmenich
+    given-names: Leon
+
+repository-code: "https://github.com/ardelsistema/scale-dependent-spacetime-geometry"
